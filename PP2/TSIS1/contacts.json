@@ -1,0 +1,30 @@
+[
+    {
+        "username": "Aigerim",
+        "email": "aigerim@gmail.com",
+        "birthday": "2005-03-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87011234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "87271234567",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "username": "Dias",
+        "email": "dias@company.com",
+        "birthday": "2004-11-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87027654321",
+                "type": "work"
+            }
+        ]
+    }
+]

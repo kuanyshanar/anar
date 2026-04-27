@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Anar",
+    "email": "kuanysh@gmail.com",
+    "birthday": "2007-11-30",
+    "group_name": "Friend",
+    "date_added": "2026-04-27 03:19:32.431007",
+    "phones": [
+      {
+        "phone": "+77011234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77011234568",
+        "type": "home"
+      },
+      {
+        "phone": "87753343322",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Айгерим Нурлан",
+    "email": "aigerin@mail.ru",
+    "birthday": "2000-11-05",
+    "group_name": "Family",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": [
+      {
+        "phone": "+77055678901",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Алия Бекова",
+    "email": "aliya@gmail.com",
+    "birthday": "1995-03-15",
+    "group_name": "Friend",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": [
+      {
+        "phone": "+77033456789",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Анар",
+    "email": "kuanysh@gmail.com",
+    "birthday": "2005-10-27",
+    "group_name": "Friend",
+    "date_added": "2026-04-27 10:05:37.570805",
+    "phones": [
+      {
+        "phone": "+77789875643",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771816605",
+        "type": "work"
+      },
+      {
+        "phone": "+77022345678",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Данияр Сейтов",
+    "email": "daniyar@work.kz",
+    "birthday": "1988-07-22",
+    "group_name": "Work",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": [
+      {
+        "phone": "+77044567890",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77044567891",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Жансая Омар",
+    "email": null,
+    "birthday": "1998-12-01",
+    "group_name": "Other",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": []
+  },
+  {
+    "id": 9,
+    "name": "Нурлан Касым",
+    "email": "nurlan@yandex.ru",
+    "birthday": "1975-06-08",
+    "group_name": "Family",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": []
+  },
+  {
+    "id": 7,
+    "name": "Сабина Ахмет",
+    "email": "sabina@corp.kz",
+    "birthday": "1985-09-17",
+    "group_name": "Work",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": [
+      {
+        "phone": "+77077890123",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Тимур Жаксы",
+    "email": "timur@gmail.com",
+    "birthday": "1992-04-30",
+    "group_name": "Friend",
+    "date_added": "2026-04-27 10:13:48.251167",
+    "phones": [
+      {
+        "phone": "+77066789012",
+        "type": "mobile"
+      }
+    ]
+  }
+]
